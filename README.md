@@ -1,5 +1,6 @@
 työjako
 
-osio  1  osio  2   osio  3
+| osio 1 | osio 2 | osio 3 |
+| --- | --- | --- |
+|  |  |  |
 
-| --- |  | --- |  | --- |
