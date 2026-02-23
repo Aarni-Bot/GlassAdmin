@@ -1,6 +1,6 @@
 ## Työjako
 
-| osio 3 | Analytics | Users |
+| Settings | Analytics | Users |
 | --- | --- | --- |
 | Nazar | Aarni | Youcef |
 
